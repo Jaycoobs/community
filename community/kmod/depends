@@ -1,2 +1,3 @@
-zlib
+pkgconf make
 xz
+zlib
